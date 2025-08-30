@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cartão de crédito principal -->
+    <path
+        android:pathData="M24,35 L84,35 A6,6 0 0,1 90,41 L90,67 A6,6 0 0,1 84,73 L24,73 A6,6 0 0,1 18,67 L18,41 A6,6 0 0,1 24,35 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.95" />
+
+    <!-- Faixa magnética -->
+    <path
+        android:pathData="M18,45 L90,45 L90,52 L18,52 Z"
+        android:fillColor="#2C2C2C"
+        android:fillAlpha="0.8" />
+
+    <!-- Chip do cartão -->
+    <path
+        android:pathData="M26,55 L38,55 A2,2 0 0,1 40,57 L40,63 A2,2 0 0,1 38,65 L26,65 A2,2 0 0,1 24,63 L24,57 A2,2 0 0,1 26,55 Z"
+        android:fillColor="#FFD700" />
+
+    <!-- Linhas do chip -->
+    <path
+        android:pathData="M26,58 L38,58"
+        android:strokeColor="#DAA520"
+        android:strokeWidth="0.5" />
+    <path
+        android:pathData="M26,60 L38,60"
+        android:strokeColor="#DAA520"
+        android:strokeWidth="0.5" />
+    <path
+        android:pathData="M26,62 L38,62"
+        android:strokeColor="#DAA520"
+        android:strokeWidth="0.5" />
+
+    <!-- Número do cartão representado por pontos -->
+    <path
+        android:pathData="M44,60 A 1,1 0 1,0 46,60 A 1,1 0 1,0 44,60 Z"
+        android:fillColor="#666666" />
+    <path
+        android:pathData="M47,60 A 1,1 0 1,0 49,60 A 1,1 0 1,0 47,60 Z"
+        android:fillColor="#666666" />
+    <path
+        android:pathData="M50,60 A 1,1 0 1,0 52,60 A 1,1 0 1,0 50,60 Z"
+        android:fillColor="#666666" />
+    <path
+        android:pathData="M53,60 A 1,1 0 1,0 55,60 A 1,1 0 1,0 53,60 Z"
+        android:fillColor="#666666" />
+
+    <path
+        android:pathData="M57,60 A 1,1 0 1,0 59,60 A 1,1 0 1,0 57,60 Z"
+        android:fillColor="#666666" />
+    <path
+        android:pathData="M60,60 A 1,1 0 1,0 62,60 A 1,1 0 1,0 60,60 Z"
+        android:fillColor="#666666" />
+    <path
+        android:pathData="M63,60 A 1,1 0 1,0 65,60 A 1,1 0 1,0 63,60 Z"
+        android:fillColor="#666666" />
+    <path
+        android:pathData="M66,60 A 1,1 0 1,0 68,60 A 1,1 0 1,0 66,60 Z"
+        android:fillColor="#666666" />
+
+
+    <!-- Logo/Brand area (círculos representando logo) -->
+    <path
+        android:pathData="M74.5,65 A 3.5,3.5 0 1,0 81.5,65 A 3.5,3.5 0 1,0 74.5,65 Z"
+        android:fillColor="#8A05BE"
+        android:fillAlpha="0.7" />
+    <path
+        android:pathData="M78.5,65 A 3.5,3.5 0 1,0 85.5,65 A 3.5,3.5 0 1,0 78.5,65 Z"
+        android:fillColor="#8A05BE"
+        android:fillAlpha="0.5" />
+
+    <!-- Efeito de brilho no cartão -->
+    <path
+        android:pathData="M24,35 L84,35 A6,6 0 0,1 90,41 L90,42 L18,42 L18,41 A6,6 0 0,1 24,35 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.3" />
+</vector>
