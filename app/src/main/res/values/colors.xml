@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="nubank_purple">#8A05BE</color>
+    <color name="nubank_light">#9D4EDD</color>
+    <color name="nubank_dark">#560BAD</color>
+    <color name="card_gold">#FFD700</color>
 </resources>
